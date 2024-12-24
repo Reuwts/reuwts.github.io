@@ -27,15 +27,18 @@ Config.enableAnnouncements = true;
  * only works if enableAnnouncements = true
  */
 Config.announceMessages = [
-  "Enjoy your stay!",
-  "Join us on Discord! Discord.gg/AABrgyjS2A"
+  "Initiating jump to hyperspace...",
+  "Preparing for Battle with Seperatist Army.",
+  "Entering the Unknown Regions...",
+  "Scanning Galaxy for Potential Threats...",
+  "Navigating Through the Asteroid Field in the Outer Rim."
 ];
 
 /**
  * How many miliseconds for each announcement?
  * only works if enableAnnouncements = true
  */
-Config.announcementLength = 3000;
+Config.announcementLength = 10000;
 
 /**
  * Image Filename
